@@ -8,8 +8,6 @@ on:
     branches:
       - master
 
-env:
-  TF_LOG: INFO
 
 jobs:
   terraform_test:
